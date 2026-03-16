@@ -45,7 +45,7 @@ Tech Stack
 
 Frontend: React 18, TypeScript, Tailwind CSS, Framer Motion, Recharts.
 Backend: Node.js, Express, Better-SQLite3.
-AI: Google Gemini API (@google/genai).
+API: Google Gemini API (@google/genai).
 Icons: Lucide React.
 
 Security & Compliance
