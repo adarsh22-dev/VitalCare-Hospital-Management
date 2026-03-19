@@ -36,7 +36,7 @@ Integrated Billing: Combined billing for OPD, IPD, Pharmacy, and Lab services.
 Insurance Integration: Tracking of claims and insurance approvals.
 Financial Analytics: Revenue dashboards with daily and monthly growth trends.
 
-<img src="./src/vitalcare_ai_modules.svg" alt="Architecture Diagram" width="800"/>
+<img src="./src/vitalcare_ai_modules.svg" alt="Architecture Diagram" width="stretch"/>
 
 
 AI-Powered Modules
