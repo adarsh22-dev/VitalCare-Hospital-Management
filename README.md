@@ -2,7 +2,7 @@ VitalCare AI - Hospital Management System (AI-HMS)
 
 VitalCare is a comprehensive, AI-powered Hospital Management System designed to streamline medical operations, enhance patient care, and provide intelligent insights for administrators.
 
-<img src="./src/microgpt_architecture.svg" alt="Architecture Diagram" width="800"/>
+<img src="./src/vitalcare_system_architecture.svg" alt="Architecture Diagram" width="800"/>
 
 Core Features
 
@@ -36,7 +36,7 @@ Integrated Billing: Combined billing for OPD, IPD, Pharmacy, and Lab services.
 Insurance Integration: Tracking of claims and insurance approvals.
 Financial Analytics: Revenue dashboards with daily and monthly growth trends.
 
-<img src="./src/microgpt_architecture.svg" alt="Architecture Diagram" width="800"/>
+<img src="./src/vitalcare_ai_modules.svg" alt="Architecture Diagram" width="800"/>
 
 
 AI-Powered Modules
